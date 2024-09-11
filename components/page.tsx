@@ -52,7 +52,7 @@ export function Page() {
             href="#"
             className="bg-blue-600 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-blue-700 transition duration-300"
           >
-            Add to Chrome - It's Free!
+            Add to Chrome - It&apos;s Free!
           </a>
         </section>
 

@@ -56,9 +56,9 @@ export default function PrivacyPolicy() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">4. Data Security</h2>
           <p>
-            Since FlowNotes doesn't collect or store any of your data, the
-            security of your information depends on your Notion account's
-            security and your browser's security settings. We recommend:
+            Since FlowNotes doesn&apos;t collect or store any of your data, the
+            security of your information depends on your Notion account&apos;s
+            security and your browser&apos;s security settings. We recommend:
           </p>
           <ul className="list-disc list-inside ml-4">
             <li>Keeping your Notion account secure with a strong password</li>
@@ -77,8 +77,8 @@ export default function PrivacyPolicy() {
             We may update this Privacy Policy from time to time to reflect
             changes in our practices or for other operational, legal, or
             regulatory reasons. We will notify you of any changes by posting the
-            new Privacy Policy on this page and updating the "Last Updated"
-            date.
+            new Privacy Policy on this page and updating the &quot;Last
+            Updated&quot; date.
           </p>
         </section>
 
